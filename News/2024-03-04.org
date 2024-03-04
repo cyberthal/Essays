@@ -1,0 +1,82 @@
+* Body
+** Business
+*** [[https://news.ycombinator.com/item?id=39288669][How to hire low experience, high potential people (worktopia.substack.com) | HN]] | commenter> | 4 Bayesian questions
+#+begin_quote
+smeeth 12 hours ago | unvote | prev | next [–]
+
+People's intuitions around hiring aren't Bayesian enough. I think a good process reduces down to something like:
+
+- Are they smart? (understands quickly + communicates effectively)
+- Are they cool? (won't put poison in the keurig + pleasant to be around)
+- Are they high energy? (initiative + action bias)
+- Do they have the experience needed to be successful in the role?
+
+Those are pretty strong priors for success. If you find someone with all the above, you've got an ~80% chance of a hit. No need to over-complicate.
+
+In my experience, adding more boxes tends to index towards box-checkers who grew up wealthy. That's how you miss the hyper-smart/diligent state school kids who happened to spend their summers working instead of doing model UN.
+#+end_quote
+** Health
+*** [[https://thenationalpulse.com/2024/02/07/ecuadorian-poisoned-400-americans-using-applesauce/][Ecuadorian Poisoned 400+ American Children Using Leaded Applesauce | National Pulse | clown world]]
+*** Gluten Intolerance | probably caused by pesticides | better in Europe due to soft vs hard wheat
+https://twitter.com/coookwithchris/status/1762479700562071695
+*** No Biological Free Lunches | Tim Ferriss | plan your supplements/drugs
+https://tim.blog/2024/02/02/no-biological-free-lunches/
+** Politics
+*** University faculty-activists are a perfect example of elite overproduction a la Turchin. | HN>
+[[https://news.ycombinator.com/item?id=39443548][Faculty group calls on Yale to make teaching 'distinct from activism' (yaledailynews.com) | HN]]
+
+*** [[https://news.ycombinator.com/item?id=39491863][Institutions try to preserve the problem to which they are the solution (effectiviology.com) | HN]]
+
+See CIA vs Russia.
+*** CCP Tightens Exit Controls Amid Sharp Increase In Citizens Fleeing China | The Epoch Times
+https://www.zerohedge.com/geopolitical/ccp-tightens-exit-controls-amid-sharp-increase-citizens-fleeing-china
+
+Serfs.
+** Sitreps
+*** [[https://forwardobserver.com/global-sitrep-for-monday-05-february-2024/][Global SITREP for Monday, 05 February 2024 | Pacific theater moves]]
+*** Global SITREP for Friday, 16 February 2024 | Jared Vaughn> | Iran assisting Houthis | Egypt Rafah border wall
+https://forwardobserver.com/global-sitrep-for-friday-16-february-2024/
+*** Global SITREP for Wednesday, 21 February 2024 | Jared Vaughn | Venezuela to join BRICS
+https://forwardobserver.com/global-sitrep-for-wednesday-21-february-2024/
+
+- Venezuela to join BRICS
+- Palestine peace process failure
+- China fishes with cyanide on Philippine reef
+- India vs China
+*** Global SITREP for Thursday, 22 February 2024 | Jared Vaughn> | USCG in PH vs China | China will cyber-blitz Taiwan | Houthis nail another cargo ship
+https://forwardobserver.com/global-sitrep-for-thursday-22-february-2024/
+*** Global SITREP for Friday, 23 February 2024 | Jared Vaughn> | Netanyahu aims to eliminate Palestine
+https://forwardobserver.com/global-sitrep-for-friday-23-february-2024/
+*** Global SITREP for Monday, 26 February 2024 | Jared Vaughn> | China vs PH electronic warfare = casus belli | West interferes in Putin's election
+https://forwardobserver.com/global-sitrep-for-monday-26-february-2024/
+*** Global SITREP for Tuesday, 27 February 2024 | Jared Vaughn | PH preps for war with China | NATO troops (officially) to Ukraine?
+https://forwardobserver.com/global-sitrep-for-tuesday-27-february-2024/
+*** Global Situation Report for Wednesday, 28 February 2024. | Jared Vaughn> | BRICS common currency | USmil recruitment woes | China vs PH goes military
+https://forwardobserver.com/global-sitrep-for-wednesday-28-february-2024/
+*** [[https://forwardobserver.com/global-sitrep-for-thursday-29-february-2024/][Global SITREP for Thursday, 29 February 2024 | Jared Vaughn>]] | China will hit civilian satellites | NSA hacking CCP
+*** [[https://forwardobserver.com/global-sitrep-for-friday-01-march-2024/][Global SITREP for Friday, 01 March 2024 | Jared Vaughn]] | Egypt in Rafah | Israel to invade Lebanon | China, USA weaponize space
+
+** Tech
+*** [[https://news.ycombinator.com/item?id=39248225][Why is the mouse cursor slightly tilted and not straight? (ux.stackexchange.com) | HN]] | right-handed tool
+***  Org-mode | Textmind competitors | Reorg
+[[https://github.com/legalnonsense/reorg][Reorg: Re​organize your life | Github]]
+
+Interesting attempt at a Textmind Org-mode competitor.  Not threatening, but maybe inspiring, particularly the documentation.
+*** Woke Big Tech Cartel seeks government censorship of AI | HN>
+	[[https://news.ycombinator.com/item?id=39534608][Google CEO calls Gemini completely unacceptable, vows to make structural changes (semafor.com) | HN]]
+
+
+** War
+*** Myanmar’s Spring Revolution is Redefining 21st-Century Warfare | Uday | drone insurgency
+https://prestonstewart.substack.com/p/myanmars-spring-revolution-asymmetric
+
+IIRC China backed the Tatmadaw.
+*** Beware Iran’s Military-Industrial Complex: How Tehran is Changing the Nature of Asymmetric Warfare | Adam Rousselle | suicide drones and medium missiles via sanctions evasion
+https://prestonstewart.substack.com/p/beware-irans-military-industrial
+
+Cheap long-range suicide drones built with sanctions-evading components, and medium missiles.
+*** The Spy War: How the C.I.A. Secretly Helps Ukraine Fight Putin | Dnyuz> | longtime partners
+https://dnyuz.com/2024/02/25/the-spy-war-how-the-c-i-a-secretly-helps-ukraine-fight-putin/
+
+Institutions perpetuate the problem they fix.
+*** [[https://www.armstrongeconomics.com/world-news/geopolitical/american-special-forces-in-taiwan-for-permanent-training/][American Special Forces in Taiwan for Permanent Training | Mar 2, 2024  | Martin Armstrong>]]
